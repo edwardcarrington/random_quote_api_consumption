@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: E_DIDDY
+Build-Jdk: 10.0.1
+Implementation-Title: QuoteGenerator
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: co.grandcircus
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/quote
+Created-By: Maven Integration for Eclipse
+
